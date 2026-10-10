@@ -6,7 +6,7 @@
   <p>
     <a href="#-tentang-proyek">Tentang Proyek</a> •
     <a href="#-fitur-utama">Fitur Utama</a> •
-    <a href="#-teknologi-yang-digunakan">Tech Stack</a> •
+    <a href="#teknologi-yang-digunakan">Tech Stack</a> •
     <a href="#-struktur-direktori">Struktur File</a> •
     <a href="#-tim-pengembang">Tim Pengembang</a>
   </p>
